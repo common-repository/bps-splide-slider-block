@@ -1,0 +1,165 @@
+# Copyright (C) 2022 BPS
+# This file is distributed under the same license as the BPS Slider Block plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: BPS Slider Block 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bps-splide-slider-"
+"block\n"
+"POT-Creation-Date: 2022-02-24T13:41:53+01:00\n"
+"PO-Revision-Date: 2022-10-03 21:13+0200\n"
+"Last-Translator: \n"
+"Language-Team: Nederlands\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: bps-slider-block\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Loco-Version: 2.5.7; wp-5.8.3\n"
+
+#. Plugin Name of the plugin
+msgid "BPS Slider Block Using Splide"
+msgstr ""
+
+#. Description of the plugin
+msgid "Custom block for Splide slider with customizable parameters"
+msgstr "Custom blok voor Splide slider met aanpasbare parameters"
+
+#. Author of the plugin
+msgid "BPS"
+msgstr ""
+
+#: index.php:96 index.php:299
+msgid "Settings"
+msgstr "Instellingen"
+
+#: index.php:104
+msgid "Image width in px"
+msgstr "Afbeelding breedte in px"
+
+#: index.php:107
+msgid "Image height in px"
+msgstr "Afbeelding hoogte in px"
+
+#: index.php:110
+msgid "Type"
+msgstr "Type"
+
+#: index.php:113
+msgid "Rewind"
+msgstr "Rewind"
+
+#: index.php:116 index.php:131
+msgid "Height ratio"
+msgstr "Height ratio"
+
+#: index.php:119 index.php:134
+msgid "Gap in px"
+msgstr "Gap in px"
+
+#: index.php:122 index.php:137
+msgid "Padding in %"
+msgstr "Padding in %"
+
+#: index.php:126
+msgid "Optional breakpoint settings"
+msgstr "Optionele breakpoint instellingen"
+
+#: index.php:128
+msgid "Breakpoint in px"
+msgstr "Breakpoint in px"
+
+#: index.php:178
+msgid ""
+"Don't forget to regenerate thumbnails to apply the width change to existing "
+"images"
+msgstr ""
+"Vergeet niet om thumbnails te hergenereren om de breedte aanpassing toe te "
+"passen"
+
+#: index.php:182
+msgid "Image width value must be a number between 100 and 1000"
+msgstr "Afbeelding breedte moet een nummer tussen 100 en 1000 zijn"
+
+#: index.php:190
+msgid ""
+"Don't forget to regenerate thumbnails to apply the height change to existing "
+"images"
+msgstr ""
+"Vergeet niet om thumbnails te hergenereren om de hoogte aanpassing toe te "
+"passen"
+
+#: index.php:194
+msgid "Image height value must be a number between 100 and 1000"
+msgstr "Afbeelding hoogte moet een nummer tussen 100 en 1000 zijn"
+
+#: index.php:201
+msgid "Invalid type value"
+msgstr "Ongeldige type waarde"
+
+#: index.php:218
+msgid "Height ratio value must be a number between 0 and 1"
+msgstr "Height ratio moet een nummer tussen 0 en 1 zijn"
+
+#: index.php:227 index.php:281
+msgid "Gap value must be a number between 0 and 100"
+msgstr "Gap moet een nummer tussen 0 en 100 zijn"
+
+#: index.php:236
+msgid "Padding value must be a number between 0 and 30"
+msgstr "Padding moet een nummer tussen 0 en 30 zijn"
+
+#: index.php:263
+msgid ""
+"Breakpoint value must be a number between 100 and 1500 or leave the field "
+"empty if you don't want a breakpoint"
+msgstr ""
+"Breakpoint moet een nummer tussen 100 en 1500 zijn of laat leeg als je geen "
+"breakpoint wil"
+
+#: index.php:272
+msgid "Breakpoint height ratio value must be a number between 0 and 1"
+msgstr "Breakpoint height ratio moet een nummer tussen 0 en 1 zijn"
+
+#: index.php:290
+msgid "Breakpoint padding value must be a number between 0 and 30"
+msgstr "Breakpoint padding moet een nummer tussen 0 en 30 zijn"
+
+#: build/block.js:3494
+msgid "slider"
+msgstr "slider"
+
+#: build/block.js:3537
+msgid "Select image"
+msgstr "Selecteer afbeelding"
+
+#: build/block.js:3545
+msgid "Remove image"
+msgstr "Verwijder afbeelding"
+
+#: build/block.js:3563
+msgid "Slider images"
+msgstr "Slider afbeeldingen"
+
+#: build/block.js:3577
+msgid "Add image"
+msgstr "Afbeelding toevoegen"
+
+#~ msgid "title"
+#~ msgstr "titel"
+
+#~ msgid "Images"
+#~ msgstr "Afbeeldingen"
+
+#~ msgid "Image title"
+#~ msgstr "Afbeelding titel"
+
+#~ msgid "optional"
+#~ msgstr "optioneel"
+
+#~ msgid "Image description"
+#~ msgstr "Afbeelding beschrijving"
+
+#~ msgid "Add element"
+#~ msgstr "Voeg element toe"
